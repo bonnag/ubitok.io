@@ -1,7 +1,7 @@
 # [UbiTok.io](https://ubitok.io/)
 meta-repo for the unstoppable Ethereum token exchange
 
-If you encounter a problem with the UbiTok.io exchange, you can raise an issue in this repo. Or email help @ ubitok.io.
+If you encounter a problem with the [UbiTok.io](https://ubitok.io/) exchange, you can raise an issue in this repo. Or email help @ ubitok.io.
 
 ## Where's the Code?
 
